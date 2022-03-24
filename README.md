@@ -1,2 +1,4 @@
-# Practica_2_Sistemas_Operativos_II
-Practica 2 de sistemas operativos
+Equipo Los Bichos
+Ramon Hernandez Martinez
+Alan Rendon Deloya
+Cassandra Astrid Paulin
